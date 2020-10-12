@@ -1,14 +1,11 @@
 ---
-layout: post 
+layout: post
 category: 
-title: "Biohaker i Osobliwość"
+title: Biohaker i Osobliwość
 tagline: 
-tags : [] 
-published: false
+tags: []
+
 ---
-
-
-
 Kto to Biohaker?
 
 Biohaker albo „transhumanista praktyczny”. To osoba, która nie chce czekać biernie, aż nadejdzie Osobliwość albo aż sztuczna inteligencja w końcu się objawi i wchłonie treść ludzkich umysłów, ich biologicznych komputerów, ich wetware’u. Korzystając z dostępnych obecnie środków, robi, co morze, by już teraz złączyć się z technologią.
@@ -19,5 +16,3 @@ Emulacja ludzkiego mózgu działającego na bazie systemu elektronicznego – by
 Dysponować technologiami umożliwiającymi taką emulację – komputerami o odpowiedniej mocy i pamięci, odpowiednio zaawansowanymi technikami skanowania mózgu – będziemy, zgodnie z jego przewidywaniami, już na początku lat 30. XXI wieku.
 
 Prozelici „transhumanizmu” twierdzą, że cuda technologii umożliwią wam lub waszym dzieciom życie wieczne. Co więcej, w przeciągu dziesięcioleci umożliwią wam modyfikowanie ciał i świadomości do niezliczenie różnorodnych postaci i zastosowań, a samodzielnie przez nas sterowana ewolucja doprowadzi do rozwinięcia się „postludzkiego gatunku” obdarzonego supermocami niczym bohaterowie komiksów. Zaprawdę, nadejdzie dzień, gdy będziemy podobni bogom…
-
-

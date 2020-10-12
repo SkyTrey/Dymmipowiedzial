@@ -4,6 +4,7 @@ category:
 title: Biohaker i Osobliwość
 tagline: 
 tags: []
+author: SkyTrey
 
 ---
 Kto to Biohaker?
